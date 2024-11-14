@@ -6,7 +6,7 @@ public class Day1 {
 
 
     public static void main(String[] args) {
-        System.out.println("Hi ini adalah hari pertama di java");
+        System.out.println("Hi ini adalah hari kedua di java");
     }
     
 }
